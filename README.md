@@ -1,7 +1,5 @@
 # `AssetBlock` : Asset Management System using SHA-256
 
-![Banner](assets/banner.png)
-
 ## **Description 📝 :**
 
 `AssetBlock` is a comprehensive asset management system designed to ensure the security, integrity, and efficiency of asset tracking and management. By utilizing the SHA-256 encryption algorithm, `AssetBlock` provides a robust mechanism for hashing and authentication, ensuring that all asset data remains secure and tamper-proof; And the same file can't be uploaded by different users. Once issued, the asset can be transferred betweeen the users seemlessly. 
